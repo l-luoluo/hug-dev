@@ -26,12 +26,12 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
+author: 落-luo
 email: xxx@example.com
 description: "少女祈祷中..."
 subtitle: "少女祈祷中..."
 
-banner: "images/banner.webp"
+banner: "images/banner1.webp"
 # You can also write it in the form of the following url
 # banner: "https://example.com"
 
@@ -46,7 +46,7 @@ banner_srcset:
     - src: "images/banner.webp"
       media: "(min-width: 800px)"
 
-avatar: "avatar.webp"
+avatar: "avatar1.webp"
 
 # Control the display of the post cover
 # If not set, the banner image will be displayed by default
@@ -94,7 +94,7 @@ copyright:
 #   All website licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></div>
 
 footer:
-  since: 2020 # 2020-current year
+  since: 2025 # 2020-current year
   powered: true
   count: true
   busuanzi: true
@@ -645,7 +645,7 @@ material_theme:
   # more information: https://github.com/2061360308/material-theme
   # notice: when you enable this feature, all the covers will be automatically added "crossorigin" attribute to support the dynamic color scheme
   # so make sure your custom covers will not be blocked by the browser's CORS policy
-  enable: false # enable material_theme to generate dynamic color schemes based on the banner image
+  enable: true # enable material_theme to generate dynamic color schemes based on the banner image
 
 internal_theme:
   light:

@@ -1,13 +1,10 @@
 baseURL = 'https://example.org/'
-languageCode = 'en'
-title = 'My New Hugo Site'
+languageCode = 'zh-CN'
+title = '心有所向，日复一日，必有精进'
 theme = 'hugo-theme-reimu'
 
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'zh-CN'
 [languages]
-[languages.en]
-languageName = 'English'
-weight = 1
 [languages.zh-CN]
 languageName = '简体中文'
 weight = 1
